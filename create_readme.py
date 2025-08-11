@@ -23,8 +23,8 @@ def main():
             not file.startswith('.')):
             portfolio_files.append(file)
     
-    # Sort by year extracted from filename
-    portfolio_files.sort(key=extract_year_from_filename)
+    # Sort by year extracted from filename (reverse chronological - newest first)
+    portfolio_files.sort(key=extract_year_from_filename, reverse=True)
     
     print(f"Found {len(portfolio_files)} portfolio files:")
     for file in portfolio_files:
@@ -34,10 +34,10 @@ def main():
     # Create the comprehensive README
     with open('README.md', 'w', encoding='utf-8') as readme:
         # Write header
-        readme.write("# Games Portfolio (2005-2024)\n\n")
+        readme.write("# Games Portfolio (2024-2005)\n\n")
         readme.write("A comprehensive portfolio showcasing nearly two decades of innovative game development, ")
-        readme.write("from pioneering cross-platform experiences to award-winning educational interventions ")
-        readme.write("and research-backed serious games.\n\n")
+        readme.write("from latest research-backed serious games to pioneering cross-platform experiences ")
+        readme.write("and award-winning educational interventions.\n\n")
         
         readme.write("## Portfolio Overview\n\n")
         readme.write("This portfolio spans **19 years** of game development (2005-2024), featuring:\n\n")
