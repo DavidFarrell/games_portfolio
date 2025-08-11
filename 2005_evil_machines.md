@@ -7,7 +7,6 @@
 ## Summary
 - An isometric, turn-based multiplayer strategy game with gameplay comparable to XCOM and Laser Squad Nemesis.
 - Widely cited as the first cross-platform game to support seamless play between PC and mobile devices.
-- Our first real game developed by David Farrell and the first real game we delivered as the team that later formed our company.
 
 ## Recognition
 - Winner, Dare to be Digital competition, 2005.
