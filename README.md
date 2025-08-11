@@ -133,7 +133,8 @@ The project exemplifies our approach to research-informed game design: grounding
 **Client/Funding:** EU-funded research projects (InvasiBES and AlienScenarios)  
 **Platform:** Tabletopia (free to play), download and print at home, store coming soon  
 **Website:** https://raccoonrampage.ecologygames.eu/  
-**Academic Validation:** Master's thesis evaluation with 86 participants
+**Academic Validation:** Master's thesis evaluation with 86 participants  
+**Contact:** jonathan.jeschke@gmx.net
 
 ## Public Engagement and Events
 
@@ -156,6 +157,8 @@ The game has been successfully demonstrated at major gaming conventions, includi
 ## Summary
 
 cf.me set out to change the way people get daily news by blending editorial content with playful, habitual interactions. The company later rebranded as Shades News. We were engaged to design a cohesive experience across the website and mobile app. We designed two iOS games that could act as lightweight, daily touchpoints. "baw" and "wurd" were conceived as quick, replayable titles that complement reading sessions—offering snackable play during news breaks and providing new entry points back into the news experience. This work established a foundation for a news platform where games are not an add-on, but a core retention and engagement mechanic.
+
+**Contact:** Sonali Maitra - sonali@shades.news
 
 ## Development Details
 
@@ -200,6 +203,7 @@ The game covers four key species—Marbled Crayfish, North American Raccoon, Com
 - **Recognition:** Finalist, 2022 International Educational Games Competition
 - **Duration:** 60-120 minutes per session
 - **Materials:** Available for download at europeanbioinvasions.ecologygames.eu
+- **Contact:** jonathan.jeschke@gmx.net
 
 We developed the game through collaborative scientific research and iterative design:
 
@@ -315,6 +319,8 @@ Our experience with digital-to-physical game development demonstrates our capabi
 
 SuperbMarket is a serious game we developed for Glasgow University in 2021-2022, exploring the complex interplay between identity, health, and business decisions in the context of Decent Working conditions and the Real Living Wage. Set within a contemporary supermarket operation, the project positions learners to explore practical trade-offs across staff wellbeing, operational performance, and financial viability. The game was recognized as a finalist in the 2022 IEGA awards, acknowledging its educational rigor and relevance to contemporary workplace issues.
 
+**Contact:** Rosalind.Searle@glasgow.ac.uk
+
 ## Development Details
 
   
@@ -387,6 +393,8 @@ SuperbMarket demonstrates how narrative-driven serious games can effectively add
 In addition to building our own titles, we offer design consultancy to game studios, providing flexible on-demand expertise.
 
 We provided consultancy support to NoCode on Observation, contributing to usability analysis for experimental narrative interfaces and content and system cohesion review. Our involvement was limited but focused on helping refine the player experience in this innovative story-driven game.
+
+**Contact:** jon@screenburn.com
 
 ## Contributions
 
@@ -478,7 +486,8 @@ Together, these contributions position Gaming Climate Futures as a significant a
 ---
 
 **Year:** 2018  
-**Recognition:** Nominated for Best Game at the 2019 International Educational Games Competition
+**Recognition:** Nominated for Best Game at the 2019 International Educational Games Competition  
+**Contact:** j.m.vervoort@uu.nl
 
 ---
 
@@ -545,6 +554,8 @@ By coupling novel input technology with a richly themed fantasy world and rigoro
 ## Summary
 
 LifeLab+ is a user-led serious game and digital health intervention developed as part of the **EACH-B (Engaging Adolescents in Changing Behaviour)** research program - a major cluster randomised controlled trial focused on improving diet and physical activity behaviors among teenagers. Commissioned under NIHR (National Institute for Health Research) and developed in collaboration with the MRC Unit at the University of Southampton, the project fused behavioral psychology with game design to drive meaningful, measurable engagement. The EACH-B study targets approximately 2,300 students aged 12-13 from 50 schools, with LifeLab+ serving as the interactive digital component alongside a 3-week science curriculum and teacher training. The program received an Advanced Commendation at the 2020 IEGC Awards. Overall project budget was £2.2m, with £330k directed to the game.
+
+**Contact:** meb@mrc.soton.ac.uk
 
 ## Development Details
 
@@ -649,6 +660,8 @@ Party Pugs (originally titled "Pug Life") by Steely Glint Games was a finalist i
 In addition to building our own titles, we offer design consultancy to game studios, providing flexible on-demand expertise.
 
 We provided consultancy support to NoCode on Stories Untold, contributing to usability analysis for experimental narrative interfaces and content and system cohesion review. Our role was supportive, helping the team balance novelty with readability across their innovative episodic content.
+
+**Contact:** jon@screenburn.com
 
 ## Contributions
 
